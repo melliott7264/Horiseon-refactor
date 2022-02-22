@@ -22,9 +22,9 @@ Reference screenshot
 
 ## Credits
 
-Mark Elliott https://github.com/melliott7264/Horiseon-refactor.git
+Mark Elliott (refactored code for this assignment) https://github.com/melliott7264/Horiseon-refactor.git
 
-Original code for this exercise provded at https://github.com/coding-boot-camp/urban-octo-telegram.git 
+Original code for this assignment provded at https://github.com/coding-boot-camp/urban-octo-telegram.git 
 
 ## License
 
