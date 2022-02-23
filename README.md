@@ -7,10 +7,10 @@
 Horiseon has tasked us with the following refactor requirements for their website, the focus of which is to make the site more accessible:
 
 - Validate all links
-- Make CSS efficient
+- Remove CSS redundancies
 - Properly comment CSS
 - Appearance at least 90% match to reference screenshot below
-- Make sure HTML is semanic and has a logical structure independent of styling or position
+- Make sure HTML is semantic and has a logical structure independent of styling or position
 - Make sure there are appropriate alt attibutes on images
 - Make sure headings are squential
 - Make sure there is a concise/descriptive title
