@@ -112,11 +112,11 @@ aside img {
 }
 
 /* Footer Styles */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     text-align: center;
 }
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
